@@ -1,0 +1,60 @@
+Zásady ochrany soukromí — Yera
+Poslední aktualizace: 16. listopadu 2025 Kontakt:owerpoverdev@gmail.com
+
+O aplikaci
+Yera je osobní deník určený pro soukromé použití.
+
+1. Shromažďování a zpracování dat
+Aplikace neshromažďuje žádná osobní data, která by byla odesílána na externí servery, třetí strany nebo vývojáře. Všechna data, která uživatel zadá (např. poznámky, záznamy o spánku, výdajích nebo pocitech), jsou ukládána výhradně lokálně v zařízení pomocí databáze SQLite.
+
+2. Lokální ukládání informací
+Data zůstávají pouze na zařízení uživatele a nikdy neopouštějí zařízení, pokud je uživatel sám neexportuje (např. do CSV). Aplikace nepoužívá žádné vzdálené servery, cloudové úložiště ani služby třetích stran.
+
+3. Sdílení dat
+Aplikace nesdílí žádná data s třetími stranami, reklamními službami ani analytickými nástroji.
+
+4. Reklamy a analýza
+Aplikace neobsahuje žádné reklamy a nepoužívá nástroje pro sledování nebo analytiku (např. Google Analytics, Firebase Analytics apod.).
+
+5. Oprávnění aplikace
+Yera používá pouze oprávnění nezbytná pro svůj základní provoz, například přístup k úložišti zařízení při exportu/importu dat. Aplikace nevyužívá citlivá oprávnění jako poloha, kamera, kontakty nebo mikrofon.
+
+6. Bezpečnost
+Jelikož jsou data uchovávána pouze lokálně, odpovědnost za ochranu zařízení a přístup k němu nese uživatel. Doporučujeme používat zámek obrazovky a pravidelně zálohovat zařízení.
+
+7. Práva uživatele
+Uživatel může kdykoli své záznamy upravit nebo smazat a může aplikaci odinstalovat — tím dojde k odstranění všech lokálně uložených dat. Aplikace neodesílá žádná data vývojáři, takže není nutné žádat vývojáře o jejich smazání nebo přístup.
+
+8. Kontakt
+V případě dotazů ohledně ochrany soukromí kontaktujte vývojáře na e‑mailu: owerpoverdev@gmail.com
+
+Privacy Policy — Yera
+Last updated: 16 November 2025  Contact: owerpoverdev@gmail.com
+
+About the app
+Yera is a personal diary app intended for private use.
+
+1. Data collection and processing
+The app does not collect any personal data that is transmitted to external servers, third parties, or the developer. All information entered by the user (e.g., notes, sleep records, spending, feelings) is stored locally on the device using a SQLite database.
+
+2. Local data storage
+All data is stored locally on the device and never leaves the device unless the user manually exports it (for example, to a CSV file). The app does not use any remote servers, cloud storage, or third‑party services.
+
+3. Data sharing
+The app does not share any data with third parties, advertisers, or analytics providers.
+
+4. Ads and analytics
+The app contains no advertisements and does not use any tracking or analytics tools (such as Google Analytics or Firebase Analytics).
+
+5. App permissions
+Yera uses only the permissions necessary for basic operation (e.g., access to device storage when exporting/importing data). The app does not use sensitive permissions like location, camera, contacts, or microphone.
+
+6. Security
+Because data is stored locally, the user is responsible for securing their device. We recommend enabling a screen lock and regularly backing up the device.
+
+7. User rights
+Users can edit or delete their entries at any time and uninstall the app, which will permanently delete all locally stored data. Because the app does not transmit data to the developer, there is no need to request access or deletion of personal data from the developer.
+
+8. Contact
+If you have any questions regarding privacy, please contact the developer at: owerpoverdev@gmail.com
+
